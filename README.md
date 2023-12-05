@@ -15,9 +15,6 @@ As bibliotecas abaixo podem ajuda-lo a lidar com alguns desafios deste projeto.
 - Biblioteca para requisições http https://github.com/square/retrofit
 
 
-"# samuelbaldasso-BECA-ANDROID-NTT-DATA---APP-FILMES" 
-
-
 
 https://user-images.githubusercontent.com/53982121/167640983-acaf9ab2-1075-452e-af12-a543df94cdc1.mp4
 
